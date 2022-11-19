@@ -8,5 +8,5 @@
 | Week | Session | by |
 |----------|----------------|--------|
 |1주차|[Meet Xcode Cloud, Customize your advanced Xcode Cloud workflows](https://github.com/A-Piece-Of-WWDC/WWDC-Study/blob/main/1%EC%A3%BC%EC%B0%A8/Xcode%20Cloud.md)|[Ethan](https://github.com/Daltonicc)|
-|1주차|[]()|[]()|
+|1주차|[Understanding Swift Performance](1주차/Understanding Swift Performance/Understanding Swift Performance.md)|[nahee](https://github.com/k-nh)|
 |1주차|[]()|[]()|
