@@ -1,4 +1,4 @@
-z# Your guide to keyboard layout
+# Your guide to keyboard layout
 
 iOS 15 버전 이전에 Keyboard를 관리하기 위해서는
 
