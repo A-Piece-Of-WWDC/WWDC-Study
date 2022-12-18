@@ -15,8 +15,8 @@
 |2주차|[Hello Swift Charts](https://github.com/A-Piece-Of-WWDC/WWDC-Study/blob/main/2%EC%A3%BC%EC%B0%A8/swift-Charts.md)|[yukyung](https://github.com/anyukyung)|
 |3주차|[Meet WidgetKit](https://github.com/A-Piece-Of-WWDC/WWDC-Study/blob/main/3%EC%A3%BC%EC%B0%A8/Meet%20WidgetKit.md)|[Ethan](https://github.com/Daltonicc)|
 |3주차|[]()|[nahee](https://github.com/k-nh)|
-|3주차|[]()|[yukyung](https://github.com/anyukyung)|
+|3주차|[Advances in Collection View Layout](https://github.com/A-Piece-Of-WWDC/WWDC-Study/blob/main/3%EC%A3%BC%EC%B0%A8/Advances-in-Collection-View-Layout.md)|[yukyung](https://github.com/anyukyung)|
 |4주차|휴식|[]()|
 |5주차|[Author fast and reliable tests for Xcode Cloud](https://github.com/A-Piece-Of-WWDC/WWDC-Study/blob/main/5%EC%A3%BC%EC%B0%A8/Author%20fast%20and%20reliable%20tests%20for%20Xcode%20Cloud.md)|[Ethan](https://github.com/Daltonicc)|
 |5주차|[]()|[nahee](https://github.com/k-nh)|
-|5주차|[]()|[yukyung](https://github.com/anyukyung)|
+|5주차|[What's new in UIKit](https://github.com/A-Piece-Of-WWDC/WWDC-Study/blob/main/5%EC%A3%BC%EC%B0%A8/What's%20new%20in%20UIKit.md)|[yukyung](https://github.com/anyukyung)|
