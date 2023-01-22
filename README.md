@@ -27,3 +27,7 @@
 |8주차|[LLDB: Beyond "po"](https://github.com/A-Piece-Of-WWDC/WWDC-Study/blob/main/8%EC%A3%BC%EC%B0%A8/LLDB:%20Beyond%20%E2%80%9Cpo%E2%80%9D.md)|[Ethan](https://github.com/Daltonicc)|
 |8주차|[]()|[nahee](https://github.com/k-nh)|
 |8주차|[]()|[yukyung](https://github.com/anyukyung)|
+|9주차|휴식|[]()|
+|10주차|[Discover breakpoint improvements](https://github.com/A-Piece-Of-WWDC/WWDC-Study/blob/main/10%EC%A3%BC%EC%B0%A8/Discover%20breakpoint%20improvements.md)|[Ethan](https://github.com/Daltonicc)|
+|10주차|[]()|[nahee](https://github.com/k-nh)|
+|10주차|[]()|[yukyung](https://github.com/anyukyung)|
