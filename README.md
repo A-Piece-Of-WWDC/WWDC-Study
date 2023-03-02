@@ -31,3 +31,7 @@
 |10주차|[Discover breakpoint improvements](https://github.com/A-Piece-Of-WWDC/WWDC-Study/blob/main/10%EC%A3%BC%EC%B0%A8/Discover%20breakpoint%20improvements.md)|[Ethan](https://github.com/Daltonicc)|
 |10주차|[]()|[nahee](https://github.com/k-nh)|
 |10주차|[]()|[yukyung](https://github.com/anyukyung)|
+|11주차|휴식|[]()|
+|12주차|[Meet Swift Package plugins](https://github.com/A-Piece-Of-WWDC/WWDC-Study/blob/main/12%EC%A3%BC%EC%B0%A8/Meet%20Swift%20Package%20plugins.md)|[Ethan](https://github.com/Daltonicc)|
+|12주차|[]()|[nahee](https://github.com/k-nh)|
+|12주차|[]()|[yukyung](https://github.com/anyukyung)|
