@@ -35,3 +35,9 @@
 |12주차|[Meet Swift Package plugins](https://github.com/A-Piece-Of-WWDC/WWDC-Study/blob/main/12%EC%A3%BC%EC%B0%A8/Meet%20Swift%20Package%20plugins.md)|[Ethan](https://github.com/Daltonicc)|
 |12주차|[]()|[nahee](https://github.com/k-nh)|
 |12주차|[Meet the new Photos picker](https://plucky-boot-fc9.notion.site/Meet-the-new-Photos-picker-2d9cfb426cd84d6da151bd5dee0168ee)|[yukyung](https://github.com/anyukyung)|
+|13주차|[]()|[Ethan](https://github.com/Daltonicc)|
+|13주차|[]()|[nahee](https://github.com/k-nh)|
+|13주차|[]()|[yukyung](https://github.com/anyukyung)|
+|14주차|[]()|[Ethan](https://github.com/Daltonicc)|
+|14주차|[]()|[nahee](https://github.com/k-nh)|
+|14주차|[]()|[yukyung](https://github.com/anyukyung)|
