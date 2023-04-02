@@ -36,13 +36,13 @@
 |12주차|[Getting Started with Instruments](https://naribox.notion.site/WWDC19-Getting-Started-with-Instruments-5083f27482ad4382bcfdaf4df8b77a18)|[nahee](https://github.com/k-nh)|
 |12주차|[Meet the new Photos picker](https://plucky-boot-fc9.notion.site/Meet-the-new-Photos-picker-2d9cfb426cd84d6da151bd5dee0168ee)|[yukyung](https://github.com/anyukyung)|
 |13주차|[Triage test failures with XCTIssue](https://github.com/A-Piece-Of-WWDC/WWDC-Study/blob/main/13%EC%A3%BC%EC%B0%A8/Triage%20test%20failures%20with%20XCTIssue.md)|[Ethan](https://github.com/Daltonicc)|
-|13주차|[Widgets Code-along, part 1](https://github.com/A-Piece-Of-WWDC/WWDC-Study/blob/main/13%EC%A3%BC%EC%B0%A8/Widgets%20Code-along%2C%20part%201.md.md)|[nahee](https://github.com/k-nh)|
+|13주차|[Widgets Code-along, part 1: The adventure begins](https://github.com/A-Piece-Of-WWDC/WWDC-Study/blob/main/13%EC%A3%BC%EC%B0%A8/Widgets%20Code-along%2C%20part%201.md.md)|[nahee](https://github.com/k-nh)|
 |13주차|[]()|[yukyung](https://github.com/anyukyung)|
 |14주차|[What's new in AVKit](https://github.com/A-Piece-Of-WWDC/WWDC-Study/blob/main/14%EC%A3%BC%EC%B0%A8/What's%20new%20in%20AVKit.md)|[Ethan](https://github.com/Daltonicc)|
-|14주차|[Widgets Code-along, part 2](https://github.com/A-Piece-Of-WWDC/WWDC-Study/blob/main/14%EC%A3%BC%EC%B0%A8/Widgets%20Code-along%2C%20part%202.md.md)|[nahee](https://github.com/k-nh)|
+|14주차|[Widgets Code-along, part 2: Alternate timelines](https://github.com/A-Piece-Of-WWDC/WWDC-Study/blob/main/14%EC%A3%BC%EC%B0%A8/Widgets%20Code-along%2C%20part%202.md.md)|[nahee](https://github.com/k-nh)|
 |14주차|[]()|[yukyung](https://github.com/anyukyung)|
 |15주차|[Meet WeatherKit](https://github.com/A-Piece-Of-WWDC/WWDC-Study/blob/main/15%EC%A3%BC%EC%B0%A8/Meet%20WeatherKit.md)|[Ethan](https://github.com/Daltonicc)|
-|15주차|[]()|[nahee](https://github.com/k-nh)|
+|15주차|[Widgets Code-along, part 3: Advancing timelines ](https://github.com/A-Piece-Of-WWDC/WWDC-Study/blob/main/15%EC%A3%BC%EC%B0%A8/Widgets%20Code-along%2C%20part%203.md)|[nahee](https://github.com/k-nh)|
 |15주차|[]()|[yukyung](https://github.com/anyukyung)|
 |16주차|[]()|[Ethan](https://github.com/Daltonicc)|
 |16주차|[]()|[nahee](https://github.com/k-nh)|
