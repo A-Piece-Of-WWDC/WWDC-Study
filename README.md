@@ -44,6 +44,6 @@
 |15주차|[Meet WeatherKit](https://github.com/A-Piece-Of-WWDC/WWDC-Study/blob/main/15%EC%A3%BC%EC%B0%A8/Meet%20WeatherKit.md)|[Ethan](https://github.com/Daltonicc)|
 |15주차|[Widgets Code-along, part 3: Advancing timelines ](https://github.com/A-Piece-Of-WWDC/WWDC-Study/blob/main/15%EC%A3%BC%EC%B0%A8/Widgets%20Code-along%2C%20part%203.md)|[nahee](https://github.com/k-nh)|
 |15주차|[]()|[yukyung](https://github.com/anyukyung)|
-|16주차|[]()|[Ethan](https://github.com/Daltonicc)|
+|16주차|[Meet AsyncSequence](https://github.com/A-Piece-Of-WWDC/WWDC-Study/blob/main/16%EC%A3%BC%EC%B0%A8/Meet%20AsyncSequence.md)|[Ethan](https://github.com/Daltonicc)|
 |16주차|[]()|[nahee](https://github.com/k-nh)|
 |16주차|[]()|[yukyung](https://github.com/anyukyung)|
