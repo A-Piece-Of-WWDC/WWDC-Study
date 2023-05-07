@@ -50,3 +50,6 @@
 |17주차|[Use async/await with URLSession](https://github.com/A-Piece-Of-WWDC/WWDC-Study/blob/main/17%EC%A3%BC%EC%B0%A8/Use%20Async%2CAwait%20with%20URLSession.md)|[Ethan](https://github.com/Daltonicc)|
 |17주차|[]()|[nahee](https://github.com/k-nh)|
 |17주차|[]()|[yukyung](https://github.com/anyukyung)|
+|18주차|[Tips for preventing common review issues](https://github.com/A-Piece-Of-WWDC/WWDC-Study/blob/main/18%EC%A3%BC%EC%B0%A8/Tips%20for%20preventing%20common%20review%20issues.md)|[Ethan](https://github.com/Daltonicc)|
+|18주차|[]()|[nahee](https://github.com/k-nh)|
+|18주차|[]()|[yukyung](https://github.com/anyukyung)|
