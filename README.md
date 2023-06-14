@@ -37,19 +37,19 @@
 |12주차|[Meet the new Photos picker](https://plucky-boot-fc9.notion.site/Meet-the-new-Photos-picker-2d9cfb426cd84d6da151bd5dee0168ee)|[yukyung](https://github.com/anyukyung)|
 |13주차|[Triage test failures with XCTIssue](https://github.com/A-Piece-Of-WWDC/WWDC-Study/blob/main/13%EC%A3%BC%EC%B0%A8/Triage%20test%20failures%20with%20XCTIssue.md)|[Ethan](https://github.com/Daltonicc)|
 |13주차|[Widgets Code-along, part 1: The adventure begins](https://github.com/A-Piece-Of-WWDC/WWDC-Study/blob/main/13%EC%A3%BC%EC%B0%A8/Widgets%20Code-along%2C%20part%201.md.md)|[nahee](https://github.com/k-nh)|
-|13주차|[]()|[yukyung](https://github.com/anyukyung)|
+|13주차|[What's new with in-app purchase](https://github.com/A-Piece-Of-WWDC/WWDC-Study/blob/main/13%EC%A3%BC%EC%B0%A8/What's%20new%20with%20in-app%20purchase.md)|[yukyung](https://github.com/anyukyung)|
 |14주차|[What's new in AVKit](https://github.com/A-Piece-Of-WWDC/WWDC-Study/blob/main/14%EC%A3%BC%EC%B0%A8/What's%20new%20in%20AVKit.md)|[Ethan](https://github.com/Daltonicc)|
 |14주차|[Widgets Code-along, part 2: Alternate timelines](https://github.com/A-Piece-Of-WWDC/WWDC-Study/blob/main/14%EC%A3%BC%EC%B0%A8/Widgets%20Code-along%2C%20part%202.md.md)|[nahee](https://github.com/k-nh)|
-|14주차|[]()|[yukyung](https://github.com/anyukyung)|
+|14주차|[Meet StoreKit 2](https://github.com/A-Piece-Of-WWDC/WWDC-Study/blob/main/14%EC%A3%BC%EC%B0%A8/Meet%20StoreKit%202.md)|[yukyung](https://github.com/anyukyung)|
 |15주차|[Meet WeatherKit](https://github.com/A-Piece-Of-WWDC/WWDC-Study/blob/main/15%EC%A3%BC%EC%B0%A8/Meet%20WeatherKit.md)|[Ethan](https://github.com/Daltonicc)|
 |15주차|[Widgets Code-along, part 3: Advancing timelines ](https://github.com/A-Piece-Of-WWDC/WWDC-Study/blob/main/15%EC%A3%BC%EC%B0%A8/Widgets%20Code-along%2C%20part%203.md)|[nahee](https://github.com/k-nh)|
-|15주차|[]()|[yukyung](https://github.com/anyukyung)|
+|15주차|[What's new in App Store Connect](https://github.com/A-Piece-Of-WWDC/WWDC-Study/blob/main/15%EC%A3%BC%EC%B0%A8/What's%20new%20in%20App%20Store%20Connect.md)|[yukyung](https://github.com/anyukyung)|
 |16주차|[Meet AsyncSequence](https://github.com/A-Piece-Of-WWDC/WWDC-Study/blob/main/16%EC%A3%BC%EC%B0%A8/Meet%20AsyncSequence.md)|[Ethan](https://github.com/Daltonicc)|
 |16주차|[]()|[nahee](https://github.com/k-nh)|
-|16주차|[]()|[yukyung](https://github.com/anyukyung)|
+|16주차|[Get ready to optimize your App Store product page](https://github.com/A-Piece-Of-WWDC/WWDC-Study/blob/main/16%EC%A3%BC%EC%B0%A8/Get%20ready%20to%20optimize%20your%20App%20Store%20product%20page.md)|[yukyung](https://github.com/anyukyung)|
 |17주차|[Use async/await with URLSession](https://github.com/A-Piece-Of-WWDC/WWDC-Study/blob/main/17%EC%A3%BC%EC%B0%A8/Use%20Async%2CAwait%20with%20URLSession.md)|[Ethan](https://github.com/Daltonicc)|
 |17주차|[Detect and diagnose memory issues](https://github.com/A-Piece-Of-WWDC/WWDC-Study/blob/18th-week/Why-is-my-app-getting-killed/17%EC%A3%BC%EC%B0%A8/Detect%20and%20diagnose%20memory%20issues.md)|[nahee](https://github.com/k-nh)|
-|17주차|[]()|[yukyung](https://github.com/anyukyung)|
+|17주차|[Explore App Tracking Transparency](https://github.com/A-Piece-Of-WWDC/WWDC-Study/blob/main/17%EC%A3%BC%EC%B0%A8/Explore%20App%20Tracking%20Transparency.md)|[yukyung](https://github.com/anyukyung)|
 |18주차|[Tips for preventing common review issues](https://github.com/A-Piece-Of-WWDC/WWDC-Study/blob/main/18%EC%A3%BC%EC%B0%A8/Tips%20for%20preventing%20common%20review%20issues.md)|[Ethan](https://github.com/Daltonicc)|
 |18주차|[Why is my app getting killed?](https://github.com/A-Piece-Of-WWDC/WWDC-Study/blob/18th-week/Why-is-my-app-getting-killed/18%EC%A3%BC%EC%B0%A8/Why%20is%20my%20app%20getting%20killed%3F.md)|[nahee](https://github.com/k-nh)|
-|18주차|[]()|[yukyung](https://github.com/anyukyung)|
+|18주차|[Add Live Text interaction to your app](https://github.com/A-Piece-Of-WWDC/WWDC-Study/blob/main/18%EC%A3%BC%EC%B0%A8/Add%20Live%20Text%20interaction%20to%20your%20app.md)|[yukyung](https://github.com/anyukyung)|
