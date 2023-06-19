@@ -53,3 +53,6 @@
 |18주차|[Tips for preventing common review issues](https://github.com/A-Piece-Of-WWDC/WWDC-Study/blob/main/18%EC%A3%BC%EC%B0%A8/Tips%20for%20preventing%20common%20review%20issues.md)|[Ethan](https://github.com/Daltonicc)|
 |18주차|[Why is my app getting killed?](https://github.com/A-Piece-Of-WWDC/WWDC-Study/blob/18th-week/Why-is-my-app-getting-killed/18%EC%A3%BC%EC%B0%A8/Why%20is%20my%20app%20getting%20killed%3F.md)|[nahee](https://github.com/k-nh)|
 |18주차|[Add Live Text interaction to your app](https://github.com/A-Piece-Of-WWDC/WWDC-Study/blob/main/18%EC%A3%BC%EC%B0%A8/Add%20Live%20Text%20interaction%20to%20your%20app.md)|[yukyung](https://github.com/anyukyung)|
+|19주차|[Introducing SwiftUI: Building Your First App](https://github.com/A-Piece-Of-WWDC/WWDC-Study/blob/main/19%EC%A3%BC%EC%B0%A8/Introducing%20SwiftUI%3A%20Building%20Your%20First%20App.md)|[Ethan](https://github.com/Daltonicc)|
+|19주차|[]()|[nahee](https://github.com/k-nh)|
+|19주차|[]()|[yukyung](https://github.com/anyukyung)|
