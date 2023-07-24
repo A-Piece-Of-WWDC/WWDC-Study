@@ -56,7 +56,7 @@
 |19주차|[Introducing SwiftUI: Building Your First App](https://github.com/A-Piece-Of-WWDC/WWDC-Study/blob/main/19%EC%A3%BC%EC%B0%A8/Introducing%20SwiftUI%3A%20Building%20Your%20First%20App.md)|[Ethan](https://github.com/Daltonicc)|
 |19주차|[]()|[nahee](https://github.com/k-nh)|
 |19주차|[]()|[yukyung](https://github.com/anyukyung)|
-|20주차|[What’s new in Xcode 15](https://github.com/A-Piece-Of-WWDC/WWDC-Study/blob/main/20%EC%A3%BC%EC%B0%A8/What%E2%80%99s%20new%20in%20Xcode%2015.md)|[Ethan](https://github.com/Daltonicc)|
+|20주차|[What’s new in Xcode 15](https://github.com/A-Piece-Of-WWDC/WWDC-Study/blob/main/20%EC%A3%BC%EC%B0%A8/What%E2%80%99s%20new%20in%20Xcode%2015.md.md)|[Ethan](https://github.com/Daltonicc)|
 |20주차|[]()|[nahee](https://github.com/k-nh)|
 |20주차|[]()|[yukyung](https://github.com/anyukyung)|
 |21주차|[Integrating SwiftUI](https://github.com/A-Piece-Of-WWDC/WWDC-Study/blob/main/21%EC%A3%BC%EC%B0%A8/Integrating%20SwiftUI.md)|[Ethan](https://github.com/Daltonicc)|
