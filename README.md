@@ -62,3 +62,6 @@
 |21주차|[Integrating SwiftUI](https://github.com/A-Piece-Of-WWDC/WWDC-Study/blob/main/21%EC%A3%BC%EC%B0%A8/Integrating%20SwiftUI.md)|[Ethan](https://github.com/Daltonicc)|
 |21주차|[]()|[nahee](https://github.com/k-nh)|
 |21주차|[]()|[yukyung](https://github.com/anyukyung)|
+|22주차|[What’s new in UIKit(2023)](https://github.com/A-Piece-Of-WWDC/WWDC-Study/blob/main/22%EC%A3%BC%EC%B0%A8/What%E2%80%99s%20new%20in%20UIKit(2023).md)|[Ethan](https://github.com/Daltonicc)|
+|22주차|[]()|[nahee](https://github.com/k-nh)|
+|22주차|[]()|[yukyung](https://github.com/anyukyung)|
